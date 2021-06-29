@@ -1,0 +1,20 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "Jackson Fretheim"
+theme = "lekh"
+
+[params]
+Name = "Jackson Fretheim"
+About = ""
+Email = "thefreim@fastmail.com"
+Resume = "" # Add the filename with file extension.
+PostLimit = 4 # Sets the number of posts to display on the front page
+GoatCounterCode = ""
+
+[[params.profiles]]
+name = "GitHub"
+url = "https://github.com/TheFreim"
+
+[[params.profiles]]
+name = "Hacker-News"
+url = "https://news.ycombinator.com/user?id=TheFreim"
