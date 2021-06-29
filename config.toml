@@ -5,7 +5,7 @@ theme = "lekh"
 
 [params]
 Name = "Jackson Fretheim"
-About = ""
+About = "Hi! I'm Jackson, also known as TheFreim! This is my website where I make posts. Topics include technology, philosophy, religion, and a lot more. Anything that I find interesting could end up as a post here."
 Email = "thefreim@fastmail.com"
 Resume = "" # Add the filename with file extension.
 PostLimit = 4 # Sets the number of posts to display on the front page
