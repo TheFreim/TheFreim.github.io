@@ -6,7 +6,7 @@ theme = "lekh"
 [params]
 Name = "Jackson Fretheim"
 About = "Hello, I'm Jackson but I also often go by my username TheFreim. My interests include computer science, historical analysis, and most importantly learning about and defending the Catholic Faith."
-Email = "thefreim[@]fastmail.com"
+Email = "jackson[@]fretheim.blog"
 Resume = "" # Add the filename with file extension.
 PostLimit = 4 # Sets the number of posts to display on the front page
 GoatCounterCode = "https://thefreim.goatcounter.com/count"
